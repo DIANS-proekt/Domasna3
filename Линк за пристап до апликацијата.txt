@@ -1,1 +1,1 @@
-http://barovi.azurewebsites.net/
+https://barovi.azurewebsites.net/
